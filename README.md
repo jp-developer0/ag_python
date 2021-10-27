@@ -1,4 +1,4 @@
-# ag_python
+# Algoritmo Genetico para resolver Acertijo de Einstein _ JPDEV
 algoritmo genetico en python
 
 Enunciado del Trabajo a resolver
